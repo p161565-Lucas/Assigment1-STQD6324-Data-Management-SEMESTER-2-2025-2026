@@ -1,0 +1,1 @@
+# Assigment1-STQD6324-Data-Management-SEMESTER-2-2025-2026
