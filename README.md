@@ -101,3 +101,14 @@ The results indicate that tree-based models perform very well for this dataset.
 
 ```bash
 pip install pyspark pandas scikit-learn
+
+
+2.Clone this repository to your local machine:
+
+git clone https://github.com/p161565-Lucas/Assigment1-STQD6324-Data-Management-SEMESTER-2-2025-2026
+
+3.Open the Jupyter Notebook file:
+
+jupyter notebook Assignment01_STQ6324_SEM2_20252026.ipynb
+
+4.Run all cells in order from top to bottom to reproduce the analysis and visualizations.
